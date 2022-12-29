@@ -1,0 +1,18 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "2F345FGHJG.com.c2c-platform.shikomel.dev" ],
+             "components": [
+               {
+                  "/": "/product/*",
+                  "comment": "Matches any URL with a path that starts with /product/."
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "2F345FGHJG.com.c2c-platform.shikomel.dev" ]
+   }
+}
